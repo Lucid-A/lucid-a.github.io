@@ -29,6 +29,7 @@ github_username:  Lucid-A
 
 # Build settings
 theme: minima
+markdown: GFM
 plugins:
   - jekyll-feed
 
