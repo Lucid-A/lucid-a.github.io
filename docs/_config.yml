@@ -28,11 +28,12 @@ twitter_username: none
 github_username:  Lucid-A
 
 # Build settings
-theme: leap-day
+remote_theme: pages-themes/leap-day@v0.2.0
 markdown: GFM
 math_engine: mathjax
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
