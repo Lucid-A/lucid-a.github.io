@@ -30,6 +30,7 @@ github_username:  Lucid-A
 # Build settings
 theme: minima
 markdown: GFM
+math_engine: mathjax
 plugins:
   - jekyll-feed
 
